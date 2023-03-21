@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Ultimate-Proxy-Scraper
 ***Using this script, You can Scrape proxy from any Free proxy sites and lists, It have around 13 types of different regex patterns to find proxy and to be print on your console.***
 
