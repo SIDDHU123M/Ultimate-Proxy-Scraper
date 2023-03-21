@@ -1,5 +1,5 @@
 # Ultimate-Proxy-Scraper
-***Using this script, You can Scrape proxy from any Free proxy sites and lists, It have around 13 types of different regex to find proxy and to be print on your console.***
+***Using this script, You can Scrape proxy from any Free proxy sites and lists, It have around 13 types of different regex (patterns) to find proxy and to be print on your console.***
 
 ***This script scrapes a list of proxies from a user-specified URL. It defines various regex patterns to match IP addresses and ports in HTML responses from proxy sites. It then sends a request to the specified URL and attempts to extract proxies from the response using the defined patterns. If any proxies are found, they are printed to the console. If no proxies are found, an error message is printed. The script uses the requests and re modules in Python to make HTTP requests and search for patterns in the response HTML.***
 
